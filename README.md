@@ -1,5 +1,5 @@
 # BladeMail
-InboxWizard | EmailProTemplates | continually updated
+InboxWizard | EmailProTemplates | Continually Updated
 
 📩 **Blademail – Professional Email Templates**  
 EmailProTemplates | InboxWizard
