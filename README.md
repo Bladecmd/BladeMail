@@ -1,5 +1,5 @@
 # BladeMail
-InboxWizard | EmailProTemplates
+InboxWizard | EmailProTemplates | continually updated
 
 📩 **Blademail – Professional Email Templates**  
 EmailProTemplates | InboxWizard
@@ -70,6 +70,10 @@ Blademail/
 📌 **Event Invitation Email** – A modern event invite layout  
 
 ---
+
+🎯 Future Goals
+Improve accessibility features.
+Add more Email Templates, 
 
 🛠️ **How to Use**
 
